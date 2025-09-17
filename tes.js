@@ -25,7 +25,7 @@ const DEFAULT_CONFIG = {
     timeout: 90000,
     outputDir: './results',
     proxyApiUrl: 'http://pubproxy.com/api/proxy?format=json&limit=3&level=anonymous&speed=5&country=us&type=http',
-    captchaApiKey: 'YOUR_2CAPTCHA_API_KEY_HERE',
+    captchaApiKey: '50d46ce959068b82299c9f2da49528ad',
     minDelay: 3000,
     maxDelay: 7000,
     scrollBehavior: true,
